@@ -22,8 +22,11 @@ A. To run the application
 B. To change different parameters of the planning framework open config.py  in an editor and change accordingly. 
 
 File Name ------------------------------------------------------------------Description
+
 planning_application_main.py -----------------------------------------------The main file, which calls different Path Planners 
-auction_application.py -----------------------------------------------------Simulate the OMCORP mechanism
+
+auction_application.py -----------------------------------------------------Simulate the OMCORP mechanism 
+
 colors.py ------------------------------------------------------------------Helper Class
 config_values.py -----------------------------------------------------------Stores different parameters for the path planning
 generate_workspace.py ------------------------------------------------------Generates the workspace and the graphs to represent the workspace from                                                                                             the given specifications, stored in config_values.py
